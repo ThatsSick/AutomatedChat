@@ -4,8 +4,7 @@ function randomMessage()
         "🛑 Want a $20 torp? | ,gg /ambrosol | 🛑",
         "🟢 Tired of overpricers? | ,gg /ambrosol | 🟢",
         
-        
-    }
+          }
 
     local TextChatService = game:GetService("TextChatService")
     local targetChannel = TextChatService.ChatInputBarConfiguration.TargetTextChannel
